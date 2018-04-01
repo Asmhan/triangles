@@ -9,8 +9,7 @@ def draw_triangle(brad):
     brad.left(120)
     brad.forward(300)
     brad.end_fill()
-
-    brad.color("blue", "white")
+#jdjjdd    brad.color("blue", "white")
     brad.fill(True)
     brad.left(180)
     brad.forward(150)
